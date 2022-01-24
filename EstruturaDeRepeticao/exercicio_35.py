@@ -25,5 +25,5 @@ while True:
     elif opcao.upper() == "N":
         break
     else:
-        print("Valor ")
+        print("Valor digitado não é valido! Programa encerrado! ")
 
